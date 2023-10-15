@@ -1,0 +1,26 @@
+body{
+    color:#c0e0f0;
+    background-color: #175a7e;
+    font-family:Arial, Helvetica, sans-serif ;
+
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+a{
+    color: #00A8FF;
+    text-decoration: none;
+}
+img{
+    width: 2020px;
+    height: 482px;
+          
+}
+.center{
+    text-align: center;
+
+}
